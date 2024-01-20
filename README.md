@@ -1,6 +1,6 @@
 ### David Melikbekyan
 
-Hi there! I'm a budding programmer with nearly a year of self-study experience in C++. A significant portion of my coding experience revolves around problem-solving. I really enjoy finding innovative solutions to complex challenges.
+Hi there! I'm a budding programmer with a year of self-study experience in C++ and Unreal Engine. A significant portion of my coding experience revolves around problem-solving. I really enjoy finding innovative solutions to complex challenges.
 
 - 🌱 I’m currently learning **C++**
 
